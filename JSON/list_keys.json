@@ -1,0 +1,58 @@
+[
+  {
+    "inventario": "bombeamento botoes de filial",
+    "sistema": "shooting shoots (simples pequeno demonio da arvore)",
+    "atributo": "hp",
+    "valor": 94.5,
+    "tipo": "pl",
+    "mapa": "pantanal das nuvens"
+  },
+  {
+    "inventario": "pena qiwei",
+    "sistema": "frango de sete cores aromatizada (frango de sete cores)",
+    "atributo": "ataque f\u00edsico",
+    "valor": 21.735,
+    "tipo": "bt",
+    "mapa": "pantanal das nuvens"
+  },
+  {
+    "inventario": "qiwei crown",
+    "sistema": "a coroa de sete sabores (o lider de frango com sete sabores)",
+    "atributo": "ataque f\u00edsico",
+    "valor": 26.082,
+    "tipo": "bt",
+    "mapa": "pantanal das nuvens"
+  },
+  {
+    "inventario": "esporos emerald",
+    "sistema": "esporos esmeralda (cogumelos verdes)",
+    "atributo": "hp",
+    "valor": 94.5,
+    "tipo": "pl",
+    "mapa": "pantanal das nuvens"
+  },
+  {
+    "inventario": "esporos azuis",
+    "sistema": "esporos azuis (cogumelo de agua)",
+    "atributo": "hp",
+    "valor": 94.5,
+    "tipo": "pl",
+    "mapa": "pantanal das nuvens"
+  },
+  {
+    "inventario": "esporos de ouro",
+    "sistema": "esporo dourado (cogumelo dourado)",
+    "atributo": "hp",
+    "valor": 94.5,
+    "tipo": "ps",
+    "mapa": "espaco zen"
+  },
+  {
+    "inventario": "pregos rocha",
+    "sistema": "unhas de pedra (monstro da planicie)",
+    "atributo": "acerto",
+    "valor": 0.0294,
+    "tipo": "ps",
+    "mapa": "espaco zen"
+  }
+]
